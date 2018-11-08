@@ -2,10 +2,12 @@
 //
 
 #include "stdafx.h"
-
+#include <conio.h>
+#include <stdlib.h>
 
 int main()
 {
+    printf_s("Hello!\n");
     return 0;
 }
 
